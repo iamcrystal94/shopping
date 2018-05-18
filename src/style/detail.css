@@ -1,0 +1,98 @@
+.detail img{
+    display: block;
+    border:1px solid #cccccc;
+    float: left;
+    margin: 10px;
+    
+}
+.detail .name{
+    margin-left:10px;
+    padding:10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.detail .price{
+    margin-top:10px;
+    font-weight: 18px;
+    color: #8f8e8e;
+}
+.detail .price .price-num{
+    display: inline-block;
+    font-size:20px;
+    margin-left: 10px;
+    color:red;
+    font-weight: bold;
+}
+.detail .mashu{
+    color: #8f8e8e;
+    margin-top:20px;
+}
+.detail .mashu .allmashu{
+    display: inline-block;
+    margin-left: 10px;
+}
+.detail .mashu .cima{
+    display: inline-block;
+    border: 1px solid #cccccc;
+    margin-left:5px;
+    width:30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+}
+.count{
+    color: #8f8e8e;
+    margin-top: 20px;
+}
+.count .desc{
+    display: inline-block;
+    margin-left: 10px;
+}
+.count .add{
+    margin-left: 5px;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border: 1px solid #cccccc;
+    
+}
+.count .num {
+    margin-left: 5px;
+    border: 1px solid #cccccc;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    color:#666262;
+}
+.count .odd {
+    border: 1px solid #cccccc;
+    margin-left: 5px;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+}
+.addtocar{
+    background-color: red;
+    width:150px;
+    height: 40px;
+    /* float:right; */
+    line-height: 40px;
+    text-align: center;
+    color: white;
+    clear: both;
+    margin-left:249px;
+
+}
+.loadfail{
+    margin: 20px;
+    font-weight: bold;
+    font-size: 25px;
+    /* color:#666262; */
+
+}
